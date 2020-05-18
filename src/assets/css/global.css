@@ -1,0 +1,13 @@
+/* 全局样式 不要忘记声明 */
+
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.box-card {
+    margin-top: 30px;
+}
